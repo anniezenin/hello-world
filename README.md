@@ -1,9 +1,7 @@
 # hello-world
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Annie's Work of Art</title>
-</head>
+
 <body>
   <h1>My First Project</h1>
   <h2>About Me</h2>
@@ -16,4 +14,5 @@
     <img src="https://images.pexels.com/photos/190934/horse-white-horsehair-equine-190934.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb" alt="Two horses running in the water." />
   </ol>
 </body>
+
 </html>

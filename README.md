@@ -5,7 +5,7 @@
 <body>
   <h1>My First Project</h1>
   <h2>About Me</h2>
-  <p>My name is <em>Annie</em> and I'm learning how to use <a href="github.com" targer="_blank">GitHub</a>. <br /> I have a cat and I love her very much.</p>
+  <p>My name is <em>Annie</em> and I'm learning how to use <a href="github.com" target="_blank">GitHub</a>. <br /> I have a cat and I love her very much.</p>
   <ol>
     <li>I'm 19.</li>
     <li>I live in California.</li>
